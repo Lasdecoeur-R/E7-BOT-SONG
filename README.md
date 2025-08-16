@@ -2,9 +2,7 @@
 
 ## 🎥 Vidéo de Présentation
 
-[![Vidéo de présentation du bot](https://youtu.be/aPjyCsduU8I)
-
-*Cliquez sur l'image pour voir la vidéo de démonstration*
+https://youtu.be/aPjyCsduU8I
 
 ---
 
